@@ -1,7 +1,0 @@
-=========================================
-  Dataset: FD004
-  Evaluation Type: Multi-Agent System (MAS) Consensus Fusion
-=========================================
-  Test RMSE  : 15.1226
-  Test Score : 1018.88
-=========================================
