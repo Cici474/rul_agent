@@ -1,0 +1,7 @@
+=========================================
+  Dataset: FD002
+  Evaluation Type: Multi-Agent System (MAS) Consensus Fusion
+=========================================
+  Test RMSE  : 14.3082
+  Test Score : 762.55
+=========================================
